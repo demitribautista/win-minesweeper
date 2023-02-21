@@ -1,0 +1,22 @@
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MainForm.resources
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\drbor\source\repos\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\bin\Debug\MineSweeper.exe
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\bin\Debug\MineSweeper.pdb
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.MainForm.resources
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.Form2.resources
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.exe
+C:\Users\dbau0\Programs\Advanced Windows Programming\win-minesweeper\obj\Debug\MineSweeper.pdb
